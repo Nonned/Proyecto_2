@@ -21,8 +21,8 @@ Uso de la Aplicación
 
 1. Iniciar sesión:
 . Ingresa el correo y la contraseña de uno de los usuarios en users.json.
-. Si las credenciales son correctas, serás redirigido a la página de check-in.
-
+. Si las credenciales son correctas, serás redirigido a la página de check-in o al panel de control del administrador.
+. Si entras como administrador vas a ver los datos de cuando x trabajador hizo el check in o el check out.
 2. Realizar check-in y check-out:
 . Al iniciar sesión, verás el botón de Check-in. Haz clic para registrar tu entrada.
 . Una vez registrado el check-in, aparecerá el botón Check-out. Haz clic para registrar tu salida.
