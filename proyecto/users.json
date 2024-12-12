@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "name": "Admin User",
+        "email": "admin@example.com",
+        "password": "admin123",
+        "role": "admin",
+        "check_in": null,
+        "check_out": null
+    },
+    {
+        "id": 2,
+        "name": "Worker User",
+        "email": "worker@example.com",
+        "password": "worker123",
+        "role": "worker",
+        "check_in": "2024-12-11T10:29:05.950436",
+        "check_out": "2024-12-11T10:29:08.741644"
+    }
+]
