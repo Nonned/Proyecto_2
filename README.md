@@ -20,4 +20,6 @@ Iniciar sesión: . ahora hay dos roles, esta el del administrador y el del traba
 
 Realizar check-in y check-out: . Al iniciar sesión, verás el botón de Check-in. Haz clic para registrar tu entrada. . Una vez registrado el check-in, aparecerá el botón Check-out. Haz clic para registrar tu salida. . Los horarios de check-in y check-out se guardarán en el archivo users.json.
 
+En el rol de administrador van a aparecer los datos de check-in y chech-out que han hecho los trabajadores. Para cambiar de rol simplemente hay que cerrar sesion e iniciar sesion con rol de trabajador.
+
 Cerrar sesión: . Usa el botón Cerrar sesión para salir y regresar a la página de inicio de sesión.
